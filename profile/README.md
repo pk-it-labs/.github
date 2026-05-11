@@ -1,34 +1,31 @@
-# Welcome to DineQR 📱🍽️
+# Welcome to EMV QR Hub 💳📲
 
-### The Modular Digital Dining Ecosystem
+### The Universal Ecosystem for EMVCo Standard Payment QR Codes
 
-DineQR is a high-performance, customer-centric platform engineered to transform the traditional dining experience. Built on a secure, enterprise-grade **Java & GCP microservices stack**, we provide a seamless bridge between restaurants and their guests.
+EMV QR Hub is a professional toolkit designed to standardize, generate, and validate **EMVCo Merchant-Presented Mode (MPM)** QR codes globally. We bridge the gap between complex financial data structures and seamless user-facing payment interfaces.
 
 ---
 
-### 🏗️ Our Architecture
-We believe in scalability, security, and modularity. Our ecosystem is built for reliability:
-- **Modular Microservices:** Built with Java 21 & Spring Boot 3.
-- **Cloud-Native:** Containerized on Google Cloud Run for independent scaling.
-- **Zero-Trust Security:** Strict JWT validation and RBAC through Keycloak.
-- **Unified Events:** Fully auditable core using a Unified Entity Event Model.
+### 🏗️ Our Mission
+We provide the technical infrastructure for developers and businesses to implement secure, standard-compliant payment solutions:
+- **Standardization:** Strict adherence to EMVCo MPM standards for QR codes.
+- **Precision:** Expertise in Tag-Length-Value (TLV) structures, including specific tag management like Tag 62.
+- **Accessibility:** Simplifying complex financial payloads for everyone.
 
 ---
 
 ### 🛠️ The Tech Stack
-| Category | Technology |
-| :--- | :--- |
-| **Backend** | Java 21, Spring Boot 3, Spring Cloud |
-| **Database** | PostgreSQL 16, Couchbase (NoSQL) |
-| **Infrastructure** | Google Cloud Platform (GCP), Docker, Kubernetes (OCP) |
-| **Security** | Keycloak, Cloudflare WAF |
+Built for high performance and granular customization:
+- **Frontend:** Flutter and Android for cross-platform reliability.
+- **Customization:** Deep UI control for QR aesthetics (eye icons, dot styles, and color palettes).
+- **Analytics & Growth:** Powered by Firebase and AdMob for data-driven insights.
 
 ---
 
-### 🚀 Key Solutions
-- **Digital Discovery:** Centralized menu and media asset management.
-- **Secure Ordering:** End-to-end encrypted transaction flows.
-- **Enterprise Structure:** Multi-outlet management from Company to Service Point.
+### 🚀 Our Solutions
+- **EMV QR Generator:** Our flagship mobile application for on-the-go standard QR creation.
+- **Web Launch:** Bringing the power of EMV QR generation to the web at emvqrhub.com.
+- **TLV Parsing:** Professional-grade decoding of merchant payloads.
 
 ---
-📫 **Get in touch:** [info@dineqr.app](mailto:info@dineqr.app) | [www.dineqr.app](https://www.dineqr.app)
+📫 **Get in touch:** [info@emvqrhub.com](mailto:info@emvqrhub.com) | [emvqrhub.com](https://emvqrhub.com)
